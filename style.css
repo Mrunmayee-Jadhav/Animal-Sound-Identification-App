@@ -1,0 +1,31 @@
+body{
+    text-align: center;
+    background-color: rgb(185, 185, 185);
+}
+
+.header_div {
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: bold;
+    letter-spacing: 3px;
+    font-size: 30px;
+}
+
+.main_div button{
+    font-size: 20px;
+}
+
+.main_div {
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.copy_right_folder {
+    font-family: cursive;
+    text-shadow: 4px 4px 4px rgb(83, 83, 83);
+    font-size: 20px;
+    padding: 20px;
+    background-color: white;
+}
+
+#image {
+    height: 200px;
+}
